@@ -1,3 +1,1 @@
-# baekjoon
-for tutoring/usaco
-bronze
+코테 문제 풀이 모음집
